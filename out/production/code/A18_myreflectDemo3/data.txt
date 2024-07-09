@@ -1,0 +1,5 @@
+name =张三
+age =18
+gender =男
+height =180.0
+hobby =睡觉
