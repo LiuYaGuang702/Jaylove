@@ -26,21 +26,6 @@ public class A05_InsertDemo {
                    arr[j-1]=temp;
                    j--;
                }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
         //遍历数组
         for (int i = 0; i < arr.length; i++) {
